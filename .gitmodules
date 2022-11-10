@@ -1,0 +1,21 @@
+[submodule "AC_Voltmeter"]
+	path = AC_Voltmeter
+	url = git@github.com:xpress-embedo/AC_Voltmeter.git
+[submodule "AnalogClockOLED"]
+	path = AnalogClockOLED
+	url = git@github.com:xpress-embedo/Analog-Clock-OLED.git
+[submodule "DS1307_PIC"]
+	path = DS1307_PIC
+	url = git@github.com:xpress-embedo/DS1307_PIC.git
+[submodule "GraphicalLCD_PIC18F"]
+	path = GraphicalLCD_PIC18F
+	url = git@github.com:xpress-embedo/GraphicalLCDInterfacingPIC18F.git
+[submodule "OLED_PIC18F"]
+	path = OLED_PIC18F
+	url = git@github.com:xpress-embedo/PIC-OLED.git
+[submodule "MatrixKeypad_PIC18F"]
+	path = MatrixKeypad_PIC18F
+	url = git@github.com:xpress-embedo/Matrix-Keypad-PIC18F.git
+[submodule "ExtendedNEC_PIC18F"]
+	path = ExtendedNEC_PIC18F
+	url = git@github.com:xpress-embedo/Extended-NEC.git
