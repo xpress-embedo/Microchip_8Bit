@@ -19,3 +19,6 @@
 [submodule "ExtendedNEC_PIC18F"]
 	path = ExtendedNEC_PIC18F
 	url = git@github.com:xpress-embedo/Extended-NEC.git
+[submodule "KeyPressEmulator_PIC18F"]
+	path = KeyPressEmulator_PIC18F
+	url = git@github.com:xpress-embedo/Keypress-Emulator.git
