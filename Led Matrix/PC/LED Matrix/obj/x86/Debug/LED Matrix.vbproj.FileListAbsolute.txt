@@ -1,0 +1,11 @@
+D:\Dropbox\Projects\Visual Basic\LED Matrix\LED Matrix\bin\Debug\LED Matrix.exe
+D:\Dropbox\Projects\Visual Basic\LED Matrix\LED Matrix\bin\Debug\LED Matrix.pdb
+D:\Dropbox\Projects\Visual Basic\LED Matrix\LED Matrix\bin\Debug\LED Matrix.xml
+D:\Dropbox\Projects\Visual Basic\LED Matrix\LED Matrix\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\Projects\Visual Basic\LED Matrix\LED Matrix\obj\x86\Debug\LED_Matrix.Form1.resources
+D:\Dropbox\Projects\Visual Basic\LED Matrix\LED Matrix\obj\x86\Debug\LED_Matrix.Resources.resources
+D:\Dropbox\Projects\Visual Basic\LED Matrix\LED Matrix\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Dropbox\Projects\Visual Basic\LED Matrix\LED Matrix\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Dropbox\Projects\Visual Basic\LED Matrix\LED Matrix\obj\x86\Debug\LED Matrix.exe
+D:\Dropbox\Projects\Visual Basic\LED Matrix\LED Matrix\obj\x86\Debug\LED Matrix.xml
+D:\Dropbox\Projects\Visual Basic\LED Matrix\LED Matrix\obj\x86\Debug\LED Matrix.pdb

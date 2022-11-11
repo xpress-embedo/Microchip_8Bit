@@ -1,0 +1,19 @@
+___awdiv: CODE, 6098 0 176
+__stringdata: MEDIUMCONST, 32695 0 72
+_Interrupt_Handler_High: CODE, 24 0 308
+_strlen: CODE, 6450 0 58
+_UART_Init: CODE, 6612 0 28
+_main: CODE, 336 0 5762
+i1_Correct_UART_Errors: CODE, 6704 0 14
+i1_UART_Write: CODE, 6658 0 18
+_UART_Write_Text: CODE, 6508 0 52
+_UART_Write_Busy: CODE, 6718 0 12
+_ShiftRegisterInit: CODE, 6690 0 14
+__initialization: CODE, 6388 0 52
+_ShiftRegisterWrite: CODE, 6274 0 114
+i1_UART_Write_Text: CODE, 6560 0 52
+i1_UART_Write_Busy: CODE, 6730 0 12
+_Correct_UART_Errors: CODE, 6676 0 14
+_UART_Write: CODE, 6640 0 18
+_CharData: MEDIUMCONST, 31175 0 1520
+Total: 8296
